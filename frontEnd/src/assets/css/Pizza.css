@@ -1,0 +1,30 @@
+.pizza-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 80%;
+    margin:auto;
+}
+
+.pizza-card-img {
+    width: 250px;
+    object-fit: cover;
+}
+
+.pizza-card-body {
+    padding: 15px;
+    flex-grow: 1;
+}
+
+.pizza-textos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+}
+.pizza-precio{
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+}

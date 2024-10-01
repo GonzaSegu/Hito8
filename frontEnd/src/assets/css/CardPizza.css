@@ -1,0 +1,22 @@
+.card-pizza {
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #ccc;
+}
+
+.card-pizza .centrado{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.card-pizza img {
+    width: 100%;
+    height: auto;
+}
+
+

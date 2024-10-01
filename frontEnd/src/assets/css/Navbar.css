@@ -1,0 +1,34 @@
+.navbar {
+    background:black;
+    color:white;
+    border: 2px solid #ccc;
+    padding:1rem 2rem;
+    
+    
+  }
+  
+.navbar-left {
+    display: flex;
+    align-items: center;
+    gap:1rem;
+}
+  
+.btn_negro{
+    background:black;
+    color: white;
+    border: 2px solid #ccc;
+    display: flex;
+  }
+.btn_blanco{
+    background:white;
+    color: black;
+    display: flex;
+}
+
+.btn_blanco .centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+

@@ -1,0 +1,23 @@
+.header {
+    position: relative;
+    width: 100%;
+    border: 2px solid #ccc;
+  }
+  
+  .header-image {
+    width: 100%;
+    height: 30vw;
+  }
+  
+  .header-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    /* Agrega un fondo semitransparente */
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}

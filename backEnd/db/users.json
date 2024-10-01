@@ -1,0 +1,53 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "123123",
+    "id": "UYz_2Vy9rNw7uELQ7AZ8D",
+    "role": "admin"
+  },
+  {
+    "email": "perfil@test.com",
+    "password": "987654",
+    "id": "s_RU7_Ql6lZ7Zk9iTakvS"
+  },
+  {
+    "email": "testeoperfil@test.com",
+    "password": "098765",
+    "id": "Kkcp0eGeJdVdR0BGMUisF"
+  },
+  {
+    "email": "adgsdgsdf@test.com",
+    "password": "999999",
+    "id": "jr45I4qM10mGeD4Z376pA"
+  },
+  {
+    "email": "Claudia@test.com",
+    "password": "4567890",
+    "id": "fAVVtDUH4dMz1d5wJI0Iw"
+  },
+  {
+    "email": "andres@test.com",
+    "password": "123456",
+    "id": "E1DPCZcfNsh0u8v_OVxQC"
+  },
+  {
+    "email": "marcelo@test.com",
+    "password": "123456",
+    "id": "6PlRhyFRgSwNpzEK_snpJ"
+  },
+  {
+    "email": "ClaudiaCarrera@gmail.com",
+    "password": "123456",
+    "id": "F7WkYu2Xk1Kf7Hhv2uoiM"
+  },
+  {
+    "email": "rodrigo@test.com",
+    "password": "123123",
+    "id": "fWbE0oUA3S_yNIMCqKnIB"
+  },
+  {
+    "email": "andresandres@test.com",
+    "password": "123123",
+    "id": "DCK9aXFjJbXeLx3VktqpT"
+  }
+]
